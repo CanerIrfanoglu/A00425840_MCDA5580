@@ -1,0 +1,76 @@
+{
+    "AdamKutnerPowerPlay": [
+        "http://freecomputerbooks.com/boat/readingRight.html"
+    ],
+    "Bettina": [
+        "https://www.theguardian.com/media/greenslade/2012/jan/25/dailymail-internet",
+        "https://www.theguardian.com/media/2016/feb/13/the-independent-gave-me-some-of-the-most-exciting-times-of-my-career",
+        "https://en.wikipedia.org/wiki/The_New_York_Times",
+        "https://en.wikipedia.org/wiki/Los_Angeles_Times",
+        "https://www.journalism.co.uk/news/how-the-guardian-supporters-helped-save-the-newspaper/s2/a733333/",
+        "https://www.theguardian.com/media/greenslade/2016/dec/05/how-the-daily-mail-has-set-the-agenda-in-its-battle-with-judges",
+        "https://en.wikipedia.org/wiki/Miami_Herald",
+        "https://www.science.gov/topicpages/o/observations+provide+key"
+    ],
+    "HelloBrother": [
+        "https://www.theguardian.com/media/2016/nov/10/the-guardian-the-daily-mail-and-prince-harry",
+        "https://www.theguardian.com/media/greenslade/2012/jan/25/dailymail-internet",
+        "https://www.intelligencesquared.com/events/the-trouble-with-this-country-is-the-daily-mail/",
+        "https://observer.com/2014/03/mailonline/",
+        "https://www.thetimes.co.uk/article/the-times-leads-the-field-at-national-press-awards-6q0px28hg",
+        "https://tools.wmflabs.org/typoscan/enwiki-20170620-pages-articles13.txt"
+    ],
+    "MILEYONTWITTER": [
+        "http://freecomputerbooks.com/boat/readingRight.html"
+    ],
+    "VoleiNoSporTV": [
+        "https://www.theguardian.com/media/2016/feb/13/the-independent-gave-me-some-of-the-most-exciting-times-of-my-career",
+        "https://www.theguardian.com/media/greenslade/2012/jan/25/dailymail-internet",
+        "https://www.intelligencesquared.com/events/the-trouble-with-this-country-is-the-daily-mail/",
+        "https://www.theguardian.pe.ca/opinion/the-guardians-quick-question-for-nov-14-2018-156122/",
+        "https://www.journalism.co.uk/news/how-the-guardian-supporters-helped-save-the-newspaper/s2/a733333/",
+        "https://www.theguardian.com/media/greenslade/2016/dec/05/how-the-daily-mail-has-set-the-agenda-in-its-battle-with-judges"
+    ]
+}{
+    "Bettina": [
+        "https://www.theguardian.com/media/greenslade/2012/jan/25/dailymail-internet",
+        "https://www.theguardian.com/media/2016/feb/13/the-independent-gave-me-some-of-the-most-exciting-times-of-my-career",
+        "https://en.wikipedia.org/wiki/The_New_York_Times",
+        "https://en.wikipedia.org/wiki/Los_Angeles_Times",
+        "https://www.journalism.co.uk/news/how-the-guardian-supporters-helped-save-the-newspaper/s2/a733333/",
+        "https://www.theguardian.com/media/greenslade/2016/dec/05/how-the-daily-mail-has-set-the-agenda-in-its-battle-with-judges",
+        "https://en.wikipedia.org/wiki/Miami_Herald",
+        "https://www.science.gov/topicpages/o/observations+provide+key"
+    ],
+    "HelloBrother": [
+        "https://www.theguardian.com/media/2016/nov/10/the-guardian-the-daily-mail-and-prince-harry",
+        "https://www.theguardian.com/media/greenslade/2012/jan/25/dailymail-internet",
+        "https://www.intelligencesquared.com/events/the-trouble-with-this-country-is-the-daily-mail/",
+        "https://observer.com/2014/03/mailonline/",
+        "https://www.olderiswiser.com/entertainment/articles/the-trouble-with-this-country-is-the-daily-mail",
+        "https://www.thetimes.co.uk/article/the-times-leads-the-field-at-national-press-awards-6q0px28hg",
+        "https://tools.wmflabs.org/typoscan/enwiki-20170620-pages-articles13.txt"
+    ],
+    "QueerEye3": [
+        "http://freecomputerbooks.com/boat/readingRight.html",
+        "https://devonport.seafmtas.com.au/component/content/archive/2017/4",
+        "http://d.digests.nhub.news/2017/01/25/12/usa_mix_en_political.html",
+        "http://d.digests.nhub.news/2018/07/14/18/usa_en_mix.html",
+        "http://ufdc.ufl.edu/AA00016616/00294",
+        "http://ufdc.ufl.edu/AA00016616/00412",
+        "http://ufdc.ufl.edu/AA00016616/00308",
+        "http://ufdc.ufl.edu/AA00016616/00315"
+    ],
+    "ROH17": [
+        "http://freecomputerbooks.com/boat/readingRight.html",
+        "http://www.myeastendstories.com/uploads/3/2/2/7/32279195/daily_times_march_47__2_.pdf",
+        "https://livintiger766.weebly.com/blog/category/all",
+        "https://bydesignhill.weebly.com/blog/previous/5"
+    ],
+    "comicrelief2019": [
+        "http://freecomputerbooks.com/boat/readingRight.html",
+        "https://www.ecity.gr/news/en/",
+        "http://wdr0041.s3-website-us-east-1.amazonaws.com/Call-866-328-6986-For-emergency-water-damage-services-in-Dyer-AR-72921-Now.html",
+        "http://www.excel.blue/search/2019_02_25/comic.html"
+    ]
+}
